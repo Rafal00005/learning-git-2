@@ -12,6 +12,7 @@
   "devDependencies": {
     "browser-sync": "^3.0.4",
     "eslint": "^9.34.0",
+    "html-validate": "^9.7.1",
     "sass": "^1.91.0"
   }
 }
